@@ -50,4 +50,4 @@ Ayusha Sanjuktha
 ---
 © 2025 Ayusha Sanjuktha ---
 ### View the Full Project
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushaSanjuktha/healthsymptom-checker)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyushaSanjuktha/HealthSymptomChecker)
